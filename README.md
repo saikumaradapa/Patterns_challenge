@@ -1,4 +1,4 @@
 # Patterns_challenge
 
 
-solving various patterns with python
+Here I have written python code for solving various patterns 
