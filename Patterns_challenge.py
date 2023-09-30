@@ -701,6 +701,7 @@ for i in range(7) :
 
 
 
+
 # n = 10
 # for i in range(n) :
 #     print(" "*(n-i-1),end="")
